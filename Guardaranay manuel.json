@@ -1,0 +1,72 @@
+{
+  "events": [
+    {
+      "id": "8ac84943641af819b5ca7855e",
+      "name": "Ana y Manuel",
+      "date": "2025-12-28",
+      "guests": 50,
+      "costPerGuest": 15000,
+      "contingencyPct": 10,
+      "categories": [
+        {
+          "id": "13ef6da3bcded19b5ca8f0d7",
+          "name": "Salon",
+          "budget": 250000,
+          "actual": 250000
+        },
+        {
+          "id": "80d3fa33e9248819b5ca92c0c",
+          "name": "Decoracion",
+          "budget": 75000,
+          "actual": 75000
+        },
+        {
+          "id": "71d957c5cb13d19b5ca97b2f",
+          "name": "Cena",
+          "budget": 450000,
+          "actual": 450000
+        }
+      ],
+      "payments": [
+        {
+          "id": "0ace3ff789d5319b5caa3138",
+          "concept": "Salon",
+          "date": "2025-12-31",
+          "method": "Sinpe",
+          "amount": 250000
+        },
+        {
+          "id": "8b099fe03d94b19b5caa9418",
+          "concept": "Decoracion",
+          "date": "2025-12-28",
+          "method": "Sinpe",
+          "amount": 75000
+        },
+        {
+          "id": "a5a60648c3cd3819b5caaed16",
+          "concept": "Cena",
+          "date": "2025-12-28",
+          "method": "Sinpe",
+          "amount": 450000
+        }
+      ],
+      "timeline": [
+        {
+          "id": "898c574e47b3319b5cab5747",
+          "time": "16:58",
+          "owner": "Franciny",
+          "task": "Ceremonia",
+          "status": "Pendiente"
+        },
+        {
+          "id": "7b9b7eaf62733819b5cab9d10",
+          "time": "17:00",
+          "owner": "Daiky",
+          "task": "Cena",
+          "status": "Pendiente"
+        }
+      ]
+    }
+  ],
+  "selectedId": "8ac84943641af819b5ca7855e"
+}

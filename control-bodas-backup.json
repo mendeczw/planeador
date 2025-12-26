@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "e7caebd99a16a19b5c789843",
+      "name": "Jose  y Luis",
+      "date": "2026-01-15",
+      "guests": 50,
+      "costPerGuest": 18000,
+      "contingencyPct": 10,
+      "categories": [
+        {
+          "id": "5009635f7336d819b5c79ba49",
+          "name": "Decoracion",
+          "budget": 85000,
+          "actual": 70000
+        },
+        {
+          "id": "451ff3e5b8412819b5c7a660c",
+          "name": "Salon",
+          "budget": 325000,
+          "actual": 300000
+        },
+        {
+          "id": "de545796859b6819b5c7b6868",
+          "name": "Servicio de Comida",
+          "budget": 250000,
+          "actual": 200000
+        }
+      ],
+      "payments": [
+        {
+          "id": "a97536647dbf0819b5c7c5a9d",
+          "concept": "Salon",
+          "date": "2026-01-24",
+          "method": "Sinpe",
+          "amount": 150000
+        },
+        {
+          "id": "2dd9fcb5f14df819b5c7cf738",
+          "concept": "Decoracion",
+          "date": "2026-01-08",
+          "method": "Sinpe",
+          "amount": 95000
+        }
+      ],
+      "timeline": [
+        {
+          "id": "2219ed4d6acb819b5c7d7e33",
+          "time": "19:11",
+          "owner": "Planeador",
+          "task": "Ceremonia",
+          "status": "Listo"
+        },
+        {
+          "id": "4fd5ec802bf5219b5c7e09d4",
+          "time": "20:13",
+          "owner": "",
+          "task": "Entrada",
+          "status": "Listo"
+        }
+      ]
+    }
+  ],
+  "selectedId": "e7caebd99a16a19b5c789843"
+}
